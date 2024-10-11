@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-> ⚠️ **Warning:** This is a warning message!
+//SOLO ESTE ARCHIVO SE EJECUTA LAS DEMAS CLASES NO.
 
 
 namespace PracticasWinForms
