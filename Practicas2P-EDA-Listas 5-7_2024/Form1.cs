@@ -3,15 +3,17 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
+> ‚ö†Ô∏è **Warning:** This is a warning message!
+
 
 namespace PracticasWinForms
 {
     public class Form1 : Form
     {
-        private LinkedList<Producto> productos;   // Pr·ctica 1: Productos disponibles y retirados
-        private List<int> numeros;                // Pr·ctica 2: Pares e Impares
-        private List<Alumno> alumnos;             // Pr·ctica 3: Aprobados y Reprobados
-        private LinkedList<Producto> productosCirculares; // Pr·ctica 4: Eliminar y ordenar productos
+        private LinkedList<Producto> productos;   // Pr√°ctica 1: Productos disponibles y retirados
+        private List<int> numeros;                // Pr√°ctica 2: Pares e Impares
+        private List<Alumno> alumnos;             // Pr√°ctica 3: Aprobados y Reprobados
+        private LinkedList<Producto> productosCirculares; // Pr√°ctica 4: Eliminar y ordenar productos
         private Random random;
 
         private GroupBox groupBoxPractica1;
@@ -39,17 +41,17 @@ namespace PracticasWinForms
 
         private void ConfigureForm()
         {
-            this.Text = "Pr·cticas de Estructuras de Datos";
+            this.Text = "Pr√°cticas de Estructuras de Datos";
             this.Size = new Size(900, 700);
             this.BackColor = Color.FromArgb(240, 248, 255);
 
             MenuStrip menuStrip = new MenuStrip();
-            ToolStripMenuItem menuPracticas = new ToolStripMenuItem("Pr·cticas");
+            ToolStripMenuItem menuPracticas = new ToolStripMenuItem("Pr√°cticas");
 
-            menuPracticas.DropDownItems.Add("Pr·ctica 1: Productos", null, (s, e) => ShowPractice(1));
-            menuPracticas.DropDownItems.Add("Pr·ctica 2: Pares e Impares", null, (s, e) => ShowPractice(2));
-            menuPracticas.DropDownItems.Add("Pr·ctica 3: Aprobados y Reprobados", null, (s, e) => ShowPractice(3));
-            menuPracticas.DropDownItems.Add("Pr·ctica 4: Eliminar y Ordenar Productos", null, (s, e) => ShowPractice(4));
+            menuPracticas.DropDownItems.Add("Pr√°ctica 1: Productos", null, (s, e) => ShowPractice(1));
+            menuPracticas.DropDownItems.Add("Pr√°ctica 2: Pares e Impares", null, (s, e) => ShowPractice(2));
+            menuPracticas.DropDownItems.Add("Pr√°ctica 3: Aprobados y Reprobados", null, (s, e) => ShowPractice(3));
+            menuPracticas.DropDownItems.Add("Pr√°ctica 4: Eliminar y Ordenar Productos", null, (s, e) => ShowPractice(4));
 
             menuStrip.Items.Add(menuPracticas);
             this.MainMenuStrip = menuStrip;
@@ -96,12 +98,12 @@ namespace PracticasWinForms
             button.Font = new Font("Arial", 10, FontStyle.Bold);
         }
 
-        // Pr·ctica 1: Productos disponibles y retirados
+        // Pr√°ctica 1: Productos disponibles y retirados
         private void CreatePractice1Controls()
         {
             groupBoxPractica1 = new GroupBox
             {
-                Text = "Pr·ctica 1: Productos disponibles y retirados",
+                Text = "Pr√°ctica 1: Productos disponibles y retirados",
                 Size = new Size(700, 500),
                 Location = new Point(50, 50),
                 BackColor = Color.FromArgb(250, 235, 215),
@@ -160,26 +162,26 @@ namespace PracticasWinForms
             lblTotalProductos.Text = $"Total de Productos Disponibles: {productos.Count}";
         }
 
-        // Pr·ctica 2: Pares e Impares
+        // Pr√°ctica 2: Pares e Impares
         private void CreatePractice2Controls()
         {
             groupBoxPractica2 = new GroupBox
             {
-                Text = "Pr·ctica 2: Pares e Impares",
+                Text = "Pr√°ctica 2: Pares e Impares",
                 Size = new Size(700, 500),
                 Location = new Point(50, 50),
                 BackColor = Color.FromArgb(224, 255, 255),
                 Visible = false
             };
 
-            Label lblGenerar = new Label { Text = "Generar lista de n˙meros aleatorios", Location = new Point(20, 30), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkBlue };
-            Button btnGenerar = new Button { Text = "Generar N˙meros", Location = new Point(300, 25), Size = new Size(150, 40) };
+            Label lblGenerar = new Label { Text = "Generar lista de n√∫meros aleatorios", Location = new Point(20, 30), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkBlue };
+            Button btnGenerar = new Button { Text = "Generar N√∫meros", Location = new Point(300, 25), Size = new Size(150, 40) };
             ApplyButtonStyles(btnGenerar);
 
-            Label lblPares = new Label { Text = "N˙meros Pares", Location = new Point(20, 80), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkGreen };
+            Label lblPares = new Label { Text = "N√∫meros Pares", Location = new Point(20, 80), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkGreen };
             ListBox lstPares = new ListBox { Location = new Point(20, 100), Size = new Size(300, 200), BackColor = Color.Lavender };
 
-            Label lblImpares = new Label { Text = "N˙meros Impares", Location = new Point(350, 80), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkGreen };
+            Label lblImpares = new Label { Text = "N√∫meros Impares", Location = new Point(350, 80), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkGreen };
             ListBox lstImpares = new ListBox { Location = new Point(350, 100), Size = new Size(300, 200), BackColor = Color.Lavender };
 
             btnGenerar.Click += (s, e) =>
@@ -203,12 +205,12 @@ namespace PracticasWinForms
             this.Controls.Add(groupBoxPractica2);
         }
 
-        // Pr·ctica 3: Aprobados y Reprobados
+        // Pr√°ctica 3: Aprobados y Reprobados
         private void CreatePractice3Controls()
         {
             groupBoxPractica3 = new GroupBox
             {
-                Text = "Pr·ctica 3: Aprobados y Reprobados",
+                Text = "Pr√°ctica 3: Aprobados y Reprobados",
                 Size = new Size(700, 500),
                 Location = new Point(50, 50),
                 BackColor = Color.FromArgb(250, 240, 230),
@@ -218,7 +220,7 @@ namespace PracticasWinForms
             Label lblNombre = new Label { Text = "Nombre del Alumno:", Location = new Point(20, 30), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkBlue };
             TextBox txtNombre = new TextBox { Location = new Point(200, 30), Width = 200 };
 
-            Label lblCalificacion = new Label { Text = "CalificaciÛn:", Location = new Point(20, 70), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkBlue };
+            Label lblCalificacion = new Label { Text = "Calificaci√≥n:", Location = new Point(20, 70), AutoSize = true, Font = new Font("Arial", 12, FontStyle.Bold), ForeColor = Color.DarkBlue };
             TextBox txtCalificacion = new TextBox { Location = new Point(200, 70), Width = 200 };
 
             Button btnAgregarAlumno = new Button { Text = "Agregar Alumno", Location = new Point(420, 50), Size = new Size(150, 40) };
@@ -257,12 +259,12 @@ namespace PracticasWinForms
             this.Controls.Add(groupBoxPractica3);
         }
 
-        // Pr·ctica 4: Eliminar y Ordenar Productos
+        // Pr√°ctica 4: Eliminar y Ordenar Productos
         private void CreatePractice4Controls()
         {
             groupBoxPractica4 = new GroupBox
             {
-                Text = "Pr·ctica 4: Eliminar y Ordenar Productos",
+                Text = "Pr√°ctica 4: Eliminar y Ordenar Productos",
                 Size = new Size(700, 500),
                 Location = new Point(50, 50),
                 BackColor = Color.FromArgb(240, 255, 240),
@@ -308,7 +310,7 @@ namespace PracticasWinForms
                 }
                 else
                 {
-                    MessageBox.Show($"El producto con nombre '{clave}' no se encontrÛ.", "Producto No Encontrado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show($"El producto con nombre '{clave}' no se encontr√≥.", "Producto No Encontrado", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
             };
 
@@ -363,7 +365,7 @@ namespace PracticasWinForms
 
             public override string ToString()
             {
-                return $"{Nombre} - CalificaciÛn: {Calificacion}";
+                return $"{Nombre} - Calificaci√≥n: {Calificacion}";
             }
         }
 
