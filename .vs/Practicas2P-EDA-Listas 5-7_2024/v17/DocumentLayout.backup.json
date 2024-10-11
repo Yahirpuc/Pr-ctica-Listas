@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 2\\practicas2p-eda-listas 5-7_2024\\practicas2p-eda-listas 5-7_2024\\practica1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|solutionrelative:practicas2p-eda-listas 5-7_2024\\practica1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 2\\practicas2p-eda-listas 5-7_2024\\practicas2p-eda-listas 5-7_2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|solutionrelative:practicas2p-eda-listas 5-7_2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 2\\practicas2p-eda-listas 5-7_2024\\practicas2p-eda-listas 5-7_2024\\practica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|solutionrelative:practicas2p-eda-listas 5-7_2024\\practica2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 2\\practicas2p-eda-listas 5-7_2024\\practicas2p-eda-listas 5-7_2024\\practica4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|solutionrelative:practicas2p-eda-listas 5-7_2024\\practica4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|d:\\pc\\utm\\utm\\4to cuatrimestre\\estructura de datos\\parcial 2\\practicas2p-eda-listas 5-7_2024\\practicas2p-eda-listas 5-7_2024\\practica3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|solutionrelative:practicas2p-eda-listas 5-7_2024\\practica3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\practicas2p-eda-listas 5-7_2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71399474-887D-4C3B-A696-97067F396AAA}|Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024.csproj|solutionrelative:practicas2p-eda-listas 5-7_2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Practica4.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Practica4.cs",
+              "RelativeDocumentMoniker": "Practicas2P-EDA-Listas 5-7_2024\\Practica4.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Practica4.cs",
+              "RelativeToolTip": "Practicas2P-EDA-Listas 5-7_2024\\Practica4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:50:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practica2.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Practica2.cs",
+              "RelativeDocumentMoniker": "Practicas2P-EDA-Listas 5-7_2024\\Practica2.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Practica2.cs",
+              "RelativeToolTip": "Practicas2P-EDA-Listas 5-7_2024\\Practica2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:49:43.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practica1.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Practica1.cs",
+              "RelativeDocumentMoniker": "Practicas2P-EDA-Listas 5-7_2024\\Practica1.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Practica1.cs*",
+              "RelativeToolTip": "Practicas2P-EDA-Listas 5-7_2024\\Practica1.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:49:09.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Practica3.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Practica3.cs",
+              "RelativeDocumentMoniker": "Practicas2P-EDA-Listas 5-7_2024\\Practica3.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Practica3.cs",
+              "RelativeToolTip": "Practicas2P-EDA-Listas 5-7_2024\\Practica3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:50:13.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Form1.cs",
+              "RelativeDocumentMoniker": "Practicas2P-EDA-Listas 5-7_2024\\Form1.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Form1.cs",
+              "RelativeToolTip": "Practicas2P-EDA-Listas 5-7_2024\\Form1.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAmwOsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:09:14.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Form1.cs",
+              "RelativeDocumentMoniker": "Practicas2P-EDA-Listas 5-7_2024\\Form1.cs",
+              "ToolTip": "D:\\pc\\UTM\\UTM\\4to Cuatrimestre\\Estructura de Datos\\Parcial 2\\Practicas2P-EDA-Listas 5-7_2024\\Practicas2P-EDA-Listas 5-7_2024\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practicas2P-EDA-Listas 5-7_2024\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:08:46.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

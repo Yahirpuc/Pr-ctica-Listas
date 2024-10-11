@@ -1,0 +1,16 @@
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\PracticasWinForms.Form1.resources
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.csproj.GenerateResource.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.AssemblyInfoInputs.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.AssemblyInfo.cs
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.csproj.CoreCompileInputs.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\bin\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.exe
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\bin\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.deps.json
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\bin\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.runtimeconfig.json
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\bin\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\bin\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.pdb
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\refint\Practicas2P-EDA-Listas 5-7_2024.dll
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.pdb
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\Practicas2P-EDA-Listas 5-7_2024.genruntimeconfig.cache
+D:\pc\UTM\UTM\4to Cuatrimestre\Estructura de Datos\Parcial 2\Practicas2P-EDA-Listas 5-7_2024\Practicas2P-EDA-Listas 5-7_2024\obj\Debug\net8.0-windows\ref\Practicas2P-EDA-Listas 5-7_2024.dll
